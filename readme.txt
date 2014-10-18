@@ -2,8 +2,8 @@
 Contributors: spectoos
 Tags: testimonial, testimonials, testimonial widget, testimonials widget, social testimonials, social reviews, customer testimonials, customer reviews, customer quotes, site reviews, site testimonials, wp testimonials, spectoos, faceboard
 Donate link: http://www.spectoos.com/
-Requires at least: 1.0
-Tested up to: 1.0
+Requires at least: 3.0
+Tested up to: 4.0
 Stable tag: 1.0
 License: License / GPLv2
 License URI: https://wordpress.org/about/license/
@@ -14,14 +14,14 @@ Add socially-proofed testimonials to your site by connecting to LinkedIn, collec
 Spectoos testimonials lets you easily collect socially-proofed testimonials and display them on your website.
 
 **What Are The Main Benefits Of Using Spectoos?**
-1. CREATE STUNNING TESTIMONIALS IN 5 EASY STEPS: Spectoos lets you collect testimonials from your LinkedIn account and build a stunning testimonial widget that can be embedded on any page – all this in a matter of minutes.
-2. BUILD TRUST WITH YOUR AUDIENCE: Showing a real person’s face which is linked to a genuine social profile means more credible testimonials that can be verified.
+1. CREATE STUNNING TESTIMONIALS IN 5 EASY STEPS: Spectoos lets you collect testimonials from your LinkedIn account and build a stunning testimonial widget that can be embedded on any page – all this in a matter of minutes.,
+2. BUILD TRUST WITH YOUR AUDIENCE: Showing a real person’s face which is linked to a genuine social profile means more credible testimonials that can be verified.,
 3. INCREASE YOUR WEBSITE CONVERSION RATE: By placing authentic testimonials on your key web pages you will increase trust with your audience. Getting your audience to trust you will drive a higher conversion rate and help grow your business.
 
 **How It Works?**
-  1. Connect to your social accounts and select the contacts you wish to ask for testimonials (currently only LinkedIn is supported).
-  2. Collect authentic testimonials written by your contacts and decide which ones to showcase on your testimonials widget.
-  3. Display your testimonials in a stunning widget showing rotating faces and clickable testimonials, by embedding the widget code or using a shortcode.
+1. Connect to your social accounts and select the contacts you wish to ask for testimonials (currently only LinkedIn is supported).,
+2. Collect authentic testimonials written by your contacts and decide which ones to showcase on your testimonials widget.,
+3. Display your testimonials in a stunning widget showing rotating faces and clickable testimonials, by embedding the widget code or using a shortcode.
 
 **Video Introduction**
 
