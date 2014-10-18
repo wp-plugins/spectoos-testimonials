@@ -15,6 +15,7 @@ Spectoos testimonials lets you easily collect socially-proofed testimonials and 
 
 **What Are The Main Benefits Of Using Spectoos?**
 
+
 1. CREATE STUNNING TESTIMONIALS IN 5 EASY STEPS: Spectoos lets you collect testimonials from your LinkedIn account and build a stunning testimonial widget that can be embedded on any page – all this in a matter of minutes
 
 1. BUILD TRUST WITH YOUR AUDIENCE: Showing a real person’s face which is linked to a genuine social profile means more credible testimonials that can be verified
@@ -22,6 +23,7 @@ Spectoos testimonials lets you easily collect socially-proofed testimonials and 
 1. INCREASE YOUR WEBSITE CONVERSION RATE: By placing authentic testimonials on your key web pages you will increase trust with your audience. Getting your audience to trust you will drive a higher conversion rate and help grow your business
 
 **How It Works?**
+
 
 1. Connect to your social accounts and select the contacts you wish to ask for testimonials (currently only LinkedIn is supported)
 
