@@ -34,6 +34,8 @@ Spectoos testimonials lets you easily collect socially-proofed testimonials and 
 [*Click to View a Live Testimonials Widget*](https://app.spectoos.com/public/spectoos)
 
 **Main Features**
+
+
 *   Import contacts from your LinkedIn network.
 *   A 5-step wizard to help you create the testimonials widget for the first time.
 *   An easy-to-use dashboard to manage testimonials (approve, reject, view stats).
