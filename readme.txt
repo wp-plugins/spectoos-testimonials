@@ -45,6 +45,8 @@ Spectoos testimonials lets you easily collect socially-proofed testimonials and 
 *	Fully responsive (mobile-friendly).
 
 **Support**
+
+
 Email us at [support@spectoos.com] or communicate with us directly right from within the app. We promise to get back to you ASAP.
 
 == Installation ==
