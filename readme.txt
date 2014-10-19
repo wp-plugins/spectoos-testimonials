@@ -1,4 +1,4 @@
-=== Spectoos ===
+=== Spectoos Testimonials ===
 Contributors: spectoos
 Tags: testimonial, testimonials, testimonial widget, testimonials widget, social testimonials, social reviews, customer testimonials, customer reviews, customer quotes, site reviews, site testimonials, wp testimonials, spectoos, faceboard
 Donate link: http://www.spectoos.com/
@@ -17,33 +17,30 @@ Spectoos testimonials lets you easily collect socially-proofed testimonials and 
 
 
 1. CREATE STUNNING TESTIMONIALS IN 5 EASY STEPS: Spectoos lets you collect testimonials from your LinkedIn account and build a stunning testimonial widget that can be embedded on any page – all this in a matter of minutes
-
 1. BUILD TRUST WITH YOUR AUDIENCE: Showing a real person’s face which is linked to a genuine social profile means more credible testimonials that can be verified
-
 1. INCREASE YOUR WEBSITE CONVERSION RATE: By placing authentic testimonials on your key web pages you will increase trust with your audience. Getting your audience to trust you will drive a higher conversion rate and help grow your business
 
 **How It Works?**
 
 
 1. Connect to your social accounts and select the contacts you wish to ask for testimonials (currently only LinkedIn is supported)
-
 1. Collect authentic testimonials written by your contacts and decide which ones to showcase on your testimonials widget
-
 1. Display your testimonials in a stunning widget showing rotating faces and clickable testimonials, by embedding the widget code or using a shortcode
 
 **Video Introduction**
 
+[youtube https://www.youtube.com/watch?v=a_lt6wouU58]
 
 [*Click to View a Live Testimonials Widget*](https://app.spectoos.com/public/spectoos)
 
 **Main Features**
-* Import contacts from your LinkedIn network.
-* A 5-step wizard to help you create the testimonials widget for the first time.
-* An easy-to-use dashboard to manage testimonials (approve, reject, view stats).
-* An embeddable stunning widget with rotating faces and clickable testimonials that you can add to any page on your website.
-* A public testimonials page you can share with others.
-* Shortcode ready.
-* Fully responsive (mobile-friendly).
+*   Import contacts from your LinkedIn network.
+*   A 5-step wizard to help you create the testimonials widget for the first time.
+*   An easy-to-use dashboard to manage testimonials (approve, reject, view stats).
+*   An embeddable stunning widget with rotating faces and clickable testimonials that you can add to any page on your website.
+*	A public testimonials page you can share with others.
+*	Shortcode ready.
+*	Fully responsive (mobile-friendly).
 
 **Support**
 Email us at [support@spectoos.com] or communicate with us directly right from within the app. We promise to get back to you ASAP.
