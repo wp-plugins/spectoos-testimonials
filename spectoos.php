@@ -3,7 +3,7 @@
  * Plugin Name: Spectoos Testimonials
  * Plugin URI: http://www.spectoos.com
  * Description: The ultimate plugin for creating socially-proofed testimonials.
- * Version: 1.1
+ * Version: 1.2
  * Author: Spectoos
  * Author URI: http://www.spectoos.com
  * License: GPL2
