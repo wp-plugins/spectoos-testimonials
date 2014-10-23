@@ -48,7 +48,9 @@ function spectoos_plugin_admin_init(){
 function spectoos_plugin_section_text() {
 	echo '<img style="display:block; margin-top:30px; margin-bottom:70px;" src="' . plugins_url( 'images/strip.png', __FILE__ ) . '" > ';
 	echo '<ol><li>If you are already signed up with Spectoos, please go to your <a href="https://app.spectoos.com/partner/index?wordpress=1" target="_blank">Spectoos dashboard</a> to get your API key.</li>';
-	echo '<li>Otherwise, please create an account with Spectoos by joining at the <a href="https://app.spectoos.com/users/sign_up" target="_blank">sign up page</a>.</li></ol>';
+	echo '<li>Otherwise, please create an account with Spectoos by joining at the <a href="https://app.spectoos.com/users/sign_up" target="_blank">sign up page</a>.</li>';
+	echo '<li>After filling the API Key below, please use the shortcode [faceboard] anywhere on your site to embed your Spectoos testimonials widget.</li>';
+	echo '</ol>';
 }
 
 function spectoos_plugin_setting_string() {
