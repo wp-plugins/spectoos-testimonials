@@ -4,7 +4,7 @@ Tags: testimonial, testimonials, testimonial widget, testimonials widget, social
 Donate link: http://www.spectoos.com/
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: trunk
 License: License / GPLv2
 License URI: https://wordpress.org/about/license/
 
