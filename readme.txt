@@ -3,7 +3,7 @@ Contributors: spectoos
 Tags: testimonial, testimonials, testimonial widget, testimonials widget, social testimonials, social reviews, customer testimonials, customer reviews, customer quotes, site reviews, site testimonials, wp testimonials, spectoos, faceboard
 Donate link: http://www.spectoos.com/
 Requires at least: 3.8
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 License: License / GPLv2
 License URI: https://wordpress.org/about/license/
