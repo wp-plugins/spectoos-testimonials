@@ -37,7 +37,7 @@ Spectoos testimonials lets you easily select your LinkedIn Recommendations and e
 
 
 *   Display your LinkedIn Recommendations with zero effort.
-*   Import contacts from your LinkedIn network.
+*   Select contacts from your LinkedIn network.
 *   A 5-step wizard to help you create the testimonials widget for the first time.
 *   An easy-to-use dashboard to manage testimonials (approve, reject, view stats).
 *   An embeddable stunning widget with rotating faces and clickable testimonials that you can add to any page on your website.
