@@ -8,7 +8,7 @@ Stable tag: trunk
 License: License / GPLv2
 License URI: https://wordpress.org/about/license/
 
-Add LinkedIn Recommendations and socially-proofed testimonials to your site by connecting to LinkedIn, collecting testimonials & displaying a stunning widget on your pages.
+Add LinkedIn Recommendations and socially-proofed testimonials to your site in a stunning widget and within minutes.
 
 == Description ==
 Spectoos testimonials lets you easily select your LinkedIn Recommendations and effortlessly collect socially-proofed testimonials and display them on your website.
