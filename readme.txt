@@ -36,10 +36,11 @@ Spectoos testimonials lets you easily select your LinkedIn Recommendations and e
 **Main Features**
 
 
-*   Display your LinkedIn Recommendations with zero effort.
-*   Select contacts from your LinkedIn network.
+*   Display your LinkedIn Recommendations on your website with just a few clicks.
+*   Ask your LinkedIn contacts for new testimonials.
 *   A 5-step wizard to help you create the testimonials widget for the first time.
-*   An easy-to-use dashboard to manage testimonials (approve, reject, view stats).
+*   An easy-to-use dashboard to manage testimonials (approve, reject, request edit, and more).
+*	Get performance stats of your widget (including impressions, clicks, the most clicked testimonial, and more).
 *   An embeddable stunning widget with rotating faces and clickable testimonials that you can add to any page on your website.
 *	A public testimonials page you can share with others.
 *	Shortcode ready.
@@ -61,7 +62,7 @@ Email us at [support@spectoos.com] or communicate with us directly right from wi
 3. What social accounts are supported? [Currently only LinkedIn is supported]
 4. Is the widget responsive? [Yes, the widget will automatically adjust itself to match any resolution on any device]
 5. What are the widget dimensions? [The widget dimensions are set according to the display width and number of contacts, and can range from 900 pixels wide to 319 pixels wide]
-6. Is Spectoos free? [No, you get a 30 day trial period and after that you'll have to pay]
+6. Is Spectoos free? [No, you get a 30 day trial period and after that it is a paid subscription]
 
 If you wish to learn more please refer to our [FAQ page](http://www.spectoos.com/faq/).
 
