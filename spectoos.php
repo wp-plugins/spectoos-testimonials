@@ -63,7 +63,7 @@ function spectoos_plugin_options_validate($input) {
 	$options = get_option('plugin_options');
 	$options['faceboard_api_key'] = trim($input['faceboard_api_key']);
 
-	if(!preg_match('/^[a-z0-9\_]+$/i', $options['faceboard_api_key'])) {
+	if(!preg_match('/^[a-z0-9\_\-]+$/i', $options['faceboard_api_key'])) {
 		$options['faceboard_api_key'] = '';
 	}
 
