@@ -46,8 +46,10 @@ Spectoos testimonials lets you easily select your LinkedIn Recommendations and e
 *	Shortcode ready.
 *	Fully responsive (mobile-friendly).
 
-**Spectoos Professional Plan (Paid)**
-*	Display up to 12 testimonials at a time instead of just one rotating testimonial
+**Spectoos Professional Plan - Paid**
+
+
+*	Display up to 12 testimonials at a time instead of just one rotating testimonial.
 *	Cancel anytime.
 
 **Support**
