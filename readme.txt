@@ -46,6 +46,10 @@ Spectoos testimonials lets you easily select your LinkedIn Recommendations and e
 *	Shortcode ready.
 *	Fully responsive (mobile-friendly).
 
+**Spectoos Professional Plan (Paid)**
+*	Display up to 12 testimonials at a time instead of just one rotating testimonial
+*	Cancel anytime.
+
 **Support**
 
 
@@ -62,7 +66,7 @@ Email us at [support@spectoos.com] or communicate with us directly right from wi
 3. What social accounts are supported? [Currently only LinkedIn is supported]
 4. Is the widget responsive? [Yes, the widget will automatically adjust itself to match any resolution on any device]
 5. What are the widget dimensions? [The widget dimensions are set according to the display width and number of contacts, and can range from 900 pixels wide to 319 pixels wide]
-6. Is Spectoos free? [No, you get a 30 day trial period and after that it is a paid subscription]
+6. Is Spectoos free? [Yes, you get a 14 day trial period with all features included. After the trial expires, you will be added automatically to our “Free Forever” plan and your Faceboard will switch to a its basic display form: showing one testimonial at a time]
 
 If you wish to learn more please refer to our [FAQ page](http://www.spectoos.com/faq/).
 
@@ -70,3 +74,4 @@ If you wish to learn more please refer to our [FAQ page](http://www.spectoos.com
 == Screenshots ==
 1. Live example of the Spectoos Testimonials Widget 
 2. The Spectoos Testimonials plugin settings page
+3. Single slot Faceboard
