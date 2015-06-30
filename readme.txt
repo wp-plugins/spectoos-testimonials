@@ -22,11 +22,14 @@ Spectoos testimonials lets you effortlessly collect socially-proofed testimonial
 
 **How It Works?**
 
-
+Invite
 1. Invite your customers or colleagues to submit their testimonials via your testimonial request form.
 1. Receive authentic testimonials from your customers and decide which ones to display on your testimonial widget.
 1. Embed the widget code in your web pages and showcase your testimonials to the world.
 
+Copy
+1. Copy your existing testimonials from anywhere on the web and add them to your Faceboard (Including: LinkedIn Recommendations, Yelp, TripAdvisor, Amazon, CitySearch etc.)
+1. Your Faceboard will be live in minutes.
 
 [*Click to View a Live Testimonials Widget*](https://app.spectoos.com/public/spectoos)
 
@@ -36,6 +39,7 @@ Spectoos testimonials lets you effortlessly collect socially-proofed testimonial
 *   Create a customized testimonial request form with your own image or company logo, and share it via email, text message, social networks and more.
 *   Ask your customers for new testimonials.
 *   A simple 5-step wizard to help you create the testimonials widget.
+*   Simple form to add your existing testimonials and reviews.
 *   An easy-to-use dashboard to manage testimonials (approve, reject, and more).
 *	Get performance stats of your widget (including impressions, clicks, the most clicked testimonial, and more).
 *   An embeddable stunning widget with rotating faces and clickable testimonials that you can add to any page on your website.
@@ -47,6 +51,7 @@ Spectoos testimonials lets you effortlessly collect socially-proofed testimonial
 
 
 *	Display up to 12 testimonials at a time instead of just one rotating testimonial.
+*   Copy unlimited number of testimonials from major review sites.
 *	Cancel anytime.
 
 **Support**
