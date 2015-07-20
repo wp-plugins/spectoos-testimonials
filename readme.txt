@@ -1,6 +1,6 @@
 === Spectoos Testimonials ===
 Contributors: spectoos
-Tags: testimonial, testimonials, testimonial widget, testimonials widget, social testimonials, social reviews, customer testimonials, customer reviews, customer quotes, site reviews, site testimonials, wp testimonials, spectoos, faceboard
+Tags: testimonial, testimonials, testimonial widget, testimonials widget, social testimonials, social reviews, customer testimonials, customer reviews, customer quotes, site reviews, site testimonials, wp testimonials, spectoos, faceboard, yelp reviews, tripadvisor reviews, amazon reviews, citysearch reviews, insiderpages reviews, linkedin recommendations, facebook, twitter, google+
 Donate link: http://www.spectoos.com/
 Requires at least: 3.8
 Tested up to: 4.2.2
@@ -23,11 +23,13 @@ Spectoos testimonials lets you effortlessly collect socially-proofed testimonial
 **How It Works?**
 
 Invite
+
 1. Invite your customers or colleagues to submit their testimonials via your testimonial request form.
 1. Receive authentic testimonials from your customers and decide which ones to display on your testimonial widget.
 1. Embed the widget code in your web pages and showcase your testimonials to the world.
 
 Copy
+
 1. Copy your existing testimonials from anywhere on the web and add them to your Faceboard (Including: LinkedIn Recommendations, Yelp, TripAdvisor, Amazon, CitySearch etc.)
 1. Your Faceboard will be live in minutes.
 
